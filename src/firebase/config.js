@@ -11,6 +11,7 @@ const firebaseConfig = {
   storageBucket: "bibliotech-aulas-jurineide.appspot.com",
   messagingSenderId: "809676341558",
   appId: "1:809676341558:web:c2f4ed5c61e29fa30b3397"
+  
 };
 
 // Initialize Firebase
